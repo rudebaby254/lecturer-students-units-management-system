@@ -1,8 +1,7 @@
 # lecturer-students-units-management-system
-# Customer-Relation-Management
-# Clone This Project git clone https://github.rudebaby254/django-Customer-Relation-Management.git
+# Clone This Project git clone https://github.com/rudebaby254/lecturer-students-units-management-system.git
 # When using vscode
-# Go to Project Directory cd django-Customer-Relation-Management
+# Go to Project Directory cd django-lecturerstudesyst
 # Create a Virtual Environment python3 -m venv env
 # Activate Virtual Environment source env/bin/activate
 # Install Requirements Package pip install -r requirements.txt
